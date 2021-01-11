@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://cdn.discordapp.com/avatars/697961565403611256/0b678f8bdb823613df4d581cd597e3b7.webp?size=2048" width=130 />
 </p>
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/704387250351243425/798223963733491742/MOSHED-2021-1-11-17-14-20.gif" width=130 />
-</p>
 
 ## What's up? 👋
 
