@@ -2,7 +2,7 @@
   <img src="https://cdn.discordapp.com/avatars/697961565403611256/0b678f8bdb823613df4d581cd597e3b7.webp?size=2048" width=130 />
 </p>
 
-## What's up? 👋
+## Hello! 👋
 
 I have a lot of interests and I'm learning new things all the time 🌱
 
