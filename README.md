@@ -11,7 +11,7 @@ I'm currently a student of the Warsaw University of Technology at the faculty of
 My main programming language is Python. I'm also Verified BOT Developer on Discord! 🤔 
 
 - 💬 **YoggieS#7404**
-- 
+ 
 <hr>
 
 <!--![yoggys's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoggys&count_private=true&show_icons=true&theme=radical&)-->
