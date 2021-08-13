@@ -4,14 +4,13 @@
 
 ## Hello! 👋
 
-I have a lot of interests and I'm learning new things all the time 🌱
+I have a lot of interests, and I'm learning new things all the time! 🌱 
 
-I'm currently a student of the Warsaw University of Technology at the faculty of Physics in Poland 😄
+Technology, physics, and math are areas in which I feel proficient. 💪
 
-My main programming language is Python. I'm also Verified BOT Developer on Discord! 🤔 
+I am extending my knowledge by studying at the Faculty of Physics, Warsaw University of Technology ⚛️
 
-- 💬 **YoggieS#7404**
- 
+I also currently work as a software developer at Engineering Design Center - Institute of Aviation 🚀✈️
 <hr>
 
 <!--![yoggys's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoggys&count_private=true&show_icons=true&theme=radical&)-->
