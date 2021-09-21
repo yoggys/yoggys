@@ -10,7 +10,7 @@ Technology, physics, and math are areas in which I feel proficient 💪
 
 I am extending my knowledge by studying at the Faculty of Physics, Warsaw University of Technology ⚛️
 
-I also currently work as a software developer at Engineering Design Center - Institute of Aviation 🚀✈️
+I also currently work as a software developer at Łukasiewicz Research Network – Institute of Aviation - Engineering Design Center 🚀✈️
 <hr>
 
 <!--![yoggys's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoggys&count_private=true&show_icons=true&theme=radical&)-->
