@@ -12,7 +12,7 @@ Technology, physics, and math are areas in which I feel proficient 💪
 I am extending my knowledge by studying at the Faculty of Physics, Warsaw University of Technology ⚛️
 
 I also currently work as a software developer at Łukasiewicz Research Network – Institute of Aviation - Engineering Design Center(EDC) 
-EDC is an engineering alliance between General Electric Company and Łukasiewicz Research Network – Institute of Aviation. 🚀✈️
+  EDC is an engineering alliance between General Electric Company and Łukasiewicz Research Network – Institute of Aviation. 🚀✈️
 </p>
  
 <hr>
