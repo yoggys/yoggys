@@ -13,13 +13,13 @@ I am extending my knowledge by studying at the Faculty of Physics, Warsaw Univer
 
 
 I also currently work as a software developer at Łukasiewicz Research Network – Institute of Aviation - Engineering Design Center(EDC).
-  EDC is an engineering alliance between General Electric Company and Łukasiewicz Research Network – Institute of Aviation. 🚀✈️
+  EDC is an engineering alliance between General Electric Company and Łukasiewicz Research Network – Institute of Aviation. 🚀✈️🛠
 </span>
  
 <hr>
 
 <!--![yoggys's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoggys&count_private=true&show_icons=true&theme=radical&)-->
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=yoggys&count_private=true&show_icons=true&theme=radical&" width=490 />
 </p>
 <!--
@@ -27,3 +27,6 @@ I also currently work as a software developer at Łukasiewicz Research Network �
   <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=yoggys&badges=2&show-header=false&style=--header-bg-color:%23000;--border-radius:10px" width=490 />
 </p>
 -->
+<hr>
+
+![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
