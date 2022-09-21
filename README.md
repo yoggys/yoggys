@@ -1,31 +1,66 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/avatars/697961565403611256/0b678f8bdb823613df4d581cd597e3b7.webp?size=2048" width=130 />
+  <img
+    src="https://cdn.discordapp.com/avatars/697961565403611256/0b678f8bdb823613df4d581cd597e3b7.webp?size=2048"
+    width="130"
+  />
 </p>
 
 ## Hello! 👋
 
 <span>
-I have a lot of interests, and I'm learning new things all the time 🌱 
+  I have a lot of interests, and I'm learning new things all the time 🌱
+  Technology, physics, and math are areas in which I feel proficient 💪
+  Currently, I am extending my knowledge by studying Computer Science at the
+  Polish-Japanese Academy of Information Technology. I graduated from the
+  Faculty of Physics, Warsaw University of Technology ⚛️
 
-Technology, physics, and math are areas in which I feel proficient 💪
-
-Currently, I am extending my knowledge by studying Computer Science at the Polish-Japanese Academy of Information Technology. I graduated from the Faculty of Physics, Warsaw University of Technology ⚛️
-
-I also currently work as a software developer at Łukasiewicz Research Network – Institute of Aviation - Engineering Design Center(EDC).
-  EDC is an engineering alliance between General Electric Company and Łukasiewicz Research Network – Institute of Aviation. 🚀✈️🛠
+  <br />I also currently work as a software developer at Łukasiewicz Research
+  Network – Institute of Aviation - Engineering Design Center(EDC). EDC is an
+  engineering alliance between General Electric Company and Łukasiewicz Research
+  Network – Institute of Aviation. 🚀✈️🛠 </br>
 </span>
- 
-<hr>
 
-<!--![yoggys's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoggys&count_private=true&show_icons=true&theme=radical&)-->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yoggys&count_private=true&show_icons=true&theme=radical&" width=490 />
-</p>
-<!--
-<p align="center">
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=yoggys&badges=2&show-header=false&style=--header-bg-color:%23000;--border-radius:10px" width=490 />
-</p>
--->
-<hr>
+## Discord Communities that I work with 🤝
 
-![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
+<a href="https://discord.gg/youngmulti">
+  <img
+    src="https://cdn.discordapp.com/icons/320574287046115328/a_53db47ba6616b0fb0330cc96043cff31.gif?size=64"
+    alt="Young Multi - 54k"
+  />
+</a>
+<a href="https://discord.gg/zebo">
+  <img
+    src="https://cdn.discordapp.com/icons/586543216887857152/a_dc798419a9aa6d813661154fa765ffa8.gif?size=64"
+    alt="ZEBO - 80k"
+  />
+</a>
+<a href="https://discord.gg/yoshi">
+  <img
+    src="https://cdn.discordapp.com/icons/548155734785916973/a_282e5e499efa8df0cf9e25b1c8996a1c.gif?size=64"
+    alt="Śmieszki Yoshiego - 133k"
+  />
+</a>
+<a href="https://discord.gg/strataczasu">
+  <img
+    src="https://cdn.discordapp.com/icons/211261411119202305/a_96a9c333ed9624137a52730fd7deef52.gif?size=64"
+    alt="Strata Czasu - 24k"
+  />
+</a>
+<a href="https://discord.gg/mordyrembola">
+  <img
+    src="https://cdn.discordapp.com/icons/439119927996317697/a_c735213dddbed4194c7ea77b4abca25b.gif?size=64"
+    alt="Mordy Rembola - 137k"
+  />
+</a>
+<a href="https://discord.gg/boxdel">
+  <img
+    src="https://cdn.discordapp.com/icons/317712516958650380/fb078b79e65ede121e49bd2549df0bf3.webp?size=64"
+    alt="Boxdel"
+  />
+</a>
+<a href="https://discord.gg/JNNBSW8gfN">
+  <img
+    src="https://cdn.discordapp.com/avatars/697961565403611256/0b678f8bdb823613df4d581cd597e3b7.webp?size=64"
+    alt="YogBOT"
+  />
+</a>
