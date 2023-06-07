@@ -32,7 +32,7 @@
 <a href="https://discord.gg/youngmulti">
   <img
     src="https://cdn.discordapp.com/icons/320574287046115328/a_53db47ba6616b0fb0330cc96043cff31.gif?size=64"
-    alt="Young Multi - 54k"
+    alt="Young Multi - 67k"
   />
 </a>
 <a href="https://discord.gg/zebo">
@@ -44,19 +44,19 @@
 <a href="https://discord.gg/yoshi">
   <img
     src="https://cdn.discordapp.com/icons/548155734785916973/a_282e5e499efa8df0cf9e25b1c8996a1c.gif?size=64"
-    alt="Śmieszki Yoshiego - 133k"
+    alt="Śmieszki Yoshiego - 125k"
   />
 </a>
 <a href="https://discord.gg/strataczasu">
   <img
-    src="https://cdn.discordapp.com/icons/211261411119202305/a_96a9c333ed9624137a52730fd7deef52.gif?size=64"
+    src="https://cdn.discordapp.com/icons/211261411119202305/a_8e990fcf9cce2b159e1cb79124f3386b.gif?size=64"
     alt="Strata Czasu - 24k"
   />
 </a>
 <a href="https://discord.gg/mordyrembola">
   <img
-    src="https://cdn.discordapp.com/icons/439119927996317697/a_c735213dddbed4194c7ea77b4abca25b.gif?size=64"
-    alt="Mordy Rembola - 137k"
+    src="https://cdn.discordapp.com/icons/439119927996317697/a_66500b9f7708eaa38aff24eb4504e40a.gif?size=64"
+    alt="Mordy Rembola - 147k"
   />
 </a>
 <a href="https://discord.gg/boxdel">
