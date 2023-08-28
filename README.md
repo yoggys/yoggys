@@ -31,7 +31,7 @@
 
 <a href="https://discord.gg/youngmulti">
   <img
-    src="https://cdn.discordapp.com/icons/320574287046115328/a_53db47ba6616b0fb0330cc96043cff31.gif?size=64"
+    src="https://cdn.discordapp.com/icons/320574287046115328/ff776cfe4948ce2ea013bf5efaa6567b.webp?size=64"
     alt="Young Multi - 67k"
   />
 </a>
@@ -49,7 +49,7 @@
 </a>
 <a href="https://discord.gg/strataczasu">
   <img
-    src="https://cdn.discordapp.com/icons/211261411119202305/a_8e990fcf9cce2b159e1cb79124f3386b.gif?size=64"
+    src="https://cdn.discordapp.com/icons/211261411119202305/a_96a9c333ed9624137a52730fd7deef52.gif?size=64"
     alt="Strata Czasu - 24k"
   />
 </a>
@@ -65,7 +65,7 @@
     alt="Boxdel"
   />
 </a>
-<a href="https://discord.gg/JNNBSW8gfN">
+<a href="https://discord.gg/UB6CCgfWUv">
   <img
     src="https://cdn.discordapp.com/avatars/697961565403611256/0b678f8bdb823613df4d581cd597e3b7.webp?size=64"
     alt="YogBOT"
