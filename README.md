@@ -61,7 +61,7 @@
 </a>
 <a href="https://discord.gg/boxdel">
   <img
-    src="https://cdn.discordapp.com/icons/317712516958650380/fb078b79e65ede121e49bd2549df0bf3.webp?size=64"
+    src="https://cdn.discordapp.com/icons/317712516958650380/29f3d0b56d80769cddc3526e36001580.webp?size=64"
     alt="Boxdel"
   />
 </a>
