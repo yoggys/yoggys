@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://cdn.discordapp.com/avatars/697961565403611256/0b678f8bdb823613df4d581cd597e3b7.webp?size=2048"
+    src="assets/yoggies.webp"
     width="130"
   />
 </p>
@@ -31,43 +31,43 @@
 
 <a href="https://discord.gg/youngmulti">
   <img
-    src="https://cdn.discordapp.com/icons/320574287046115328/ff776cfe4948ce2ea013bf5efaa6567b.webp?size=64"
+    src="assets/multi.webp"
     alt="Young Multi - 67k"
-  />
-</a>
+    width="64"
+  /></a>
 <a href="https://discord.gg/zebo">
   <img
-    src="https://cdn.discordapp.com/icons/586543216887857152/a_dc798419a9aa6d813661154fa765ffa8.gif?size=64"
+    src="assets/zebo.gif"
     alt="ZEBO - 80k"
-  />
-</a>
+    width="64"
+  /></a>
 <a href="https://discord.gg/yoshi">
   <img
-    src="https://cdn.discordapp.com/icons/548155734785916973/a_282e5e499efa8df0cf9e25b1c8996a1c.gif?size=64"
+    src="assets/yoshi.gif"
     alt="Śmieszki Yoshiego - 125k"
-  />
-</a>
+    width="64"
+  /></a>
 <a href="https://discord.gg/strataczasu">
   <img
-    src="https://cdn.discordapp.com/icons/211261411119202305/a_96a9c333ed9624137a52730fd7deef52.gif?size=64"
+    src="assets/strata.gif"
     alt="Strata Czasu - 24k"
-  />
-</a>
+    width="64"
+  /></a>
 <a href="https://discord.gg/mordyrembola">
   <img
-    src="https://cdn.discordapp.com/icons/439119927996317697/a_66500b9f7708eaa38aff24eb4504e40a.gif?size=64"
+    src="assets/rembol.gif"
     alt="Mordy Rembola - 147k"
-  />
-</a>
+    width="64"
+  /></a>
 <a href="https://discord.gg/boxdel">
   <img
-    src="https://cdn.discordapp.com/icons/317712516958650380/29f3d0b56d80769cddc3526e36001580.webp?size=64"
+    src="assets/boxdel.webp"
     alt="Boxdel"
-  />
-</a>
+    width="64"
+  /></a>
 <a href="https://discord.gg/UB6CCgfWUv">
   <img
-    src="https://cdn.discordapp.com/avatars/697961565403611256/0b678f8bdb823613df4d581cd597e3b7.webp?size=64"
+    src="assets/yoggies.webp"
     alt="YogBOT"
-  />
-</a>
+    width="64"
+  /></a>
