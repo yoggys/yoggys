@@ -41,7 +41,7 @@
     alt="ZEBO - 80k"
     width="64"
   /></a>
-<a href="https://discord.gg/yoshi">
+<a href="https://discord.gg/smieszki">
   <img
     src="assets/yoshi.gif"
     alt="Śmieszki Yoshiego - 125k"
