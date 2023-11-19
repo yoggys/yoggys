@@ -65,7 +65,7 @@
     alt="Boxdel"
     width="64"
   /></a>
-<a href="https://discord.gg/UB6CCgfWUv">
+<a href="https://dc.yoggies.dev">
   <img
     src="assets/yoggies.webp"
     alt="YogBOT"
