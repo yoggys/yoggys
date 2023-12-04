@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" width="100%">
   <img
     src="assets/yoggies.webp"
     width="130"
@@ -9,22 +9,20 @@
 
 <span>
   I have a lot of interests, and I'm learning new things all the time 🌱
-  Technology, physics, and math are areas in which I feel proficient 💪
-  Currently, I am extending my knowledge by studying Computer Science at the
-  Polish-Japanese Academy of Information Technology. I graduated from the
-  Faculty of Physics, Warsaw University of Technology ⚛️
-  </br></br>
-  I also currently work as a software developer at Łukasiewicz Research
-  Network – Institute of Aviation - Engineering Design Center(EDC). EDC is an
-  engineering alliance between General Electric Company and Łukasiewicz Research
-  Network – Institute of Aviation. 🚀✈️🛠
-  </br></br>
+  <p>Technology, physics, and math are areas in which I feel proficient 💪</p>
+
+  <ul>
+    <li>BEng in Photonics</li>
+    <li>MEng in Computer Science [soon]</li>
+  </ul>  
+  <br>
   In my free time, I like to develop my bots on Discord. Here is one of the verified ones: 
   <a href="https://discord.com/api/oauth2/authorize?client_id=697961565403611256&permissions=8&scope=applications.commands%20bot">
     click
   </a> 
   🤖
-  </br>
+  <br>
+  <br>
 </span>
 
 ## Discord Communities that I work with 🤝
