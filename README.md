@@ -14,6 +14,7 @@
   <ul>
     <li>BEng in Photonics</li>
     <li>MEng in Computer Science [soon]</li>
+    <li>Working in the Aerospace industry 🚀</li>
   </ul>  
   <br>
   In my free time, I like to develop my bots on Discord. Here is one of the verified ones: 
