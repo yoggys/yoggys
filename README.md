@@ -31,13 +31,19 @@
 <a href="https://discord.gg/youngmulti">
   <img
     src="assets/multi.webp"
-    alt="Young Multi - 67k"
+    alt="Young Multi - 75k"
+    width="64"
+  /></a>
+<a href="https://discord.gg/youngmulti">
+  <img
+    src="assets/2115.gif"
+    alt="2115 - 15k"
     width="64"
   /></a>
 <a href="https://discord.gg/zebo">
   <img
     src="assets/zebo.gif"
-    alt="ZEBO - 80k"
+    alt="ZEBO - 100k"
     width="64"
   /></a>
 <a href="https://discord.gg/smieszki">
@@ -49,13 +55,13 @@
 <a href="https://discord.gg/strataczasu">
   <img
     src="assets/strata.gif"
-    alt="Strata Czasu - 24k"
+    alt="Strata Czasu - 30k"
     width="64"
   /></a>
 <a href="https://discord.gg/mordyrembola">
   <img
     src="assets/rembol.gif"
-    alt="Mordy Rembola - 147k"
+    alt="Mordy Rembola - 145k"
     width="64"
   /></a>
 <a href="https://discord.gg/boxdel">
