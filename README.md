@@ -34,7 +34,7 @@
     alt="Young Multi - 75k"
     width="64"
   /></a>
-<a href="https://discord.gg/youngmulti">
+<a href="https://discord.gg/2115">
   <img
     src="assets/2115.gif"
     alt="2115 - 15k"
