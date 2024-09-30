@@ -26,42 +26,48 @@
   <br>
 </span>
 
-## Discord Communities that I work with 🤝
+## Discord Communities I've Worked With 🤝
 
 <a href="https://discord.gg/youngmulti">
   <img
     src="assets/multi.webp"
-    alt="Young Multi - 75k"
+    alt="Young Multi"
     width="64"
   /></a>
 <a href="https://discord.gg/2115">
   <img
     src="assets/2115.gif"
-    alt="2115 - 15k"
+    alt="2115"
     width="64"
   /></a>
 <a href="https://discord.gg/zebo">
   <img
     src="assets/zebo.gif"
-    alt="ZEBO - 100k"
+    alt="ZEBO"
     width="64"
   /></a>
 <a href="https://discord.gg/smieszki">
   <img
     src="assets/yoshi.gif"
-    alt="Śmieszki Yoshiego - 125k"
+    alt="Śmieszki Yoshiego"
     width="64"
   /></a>
 <a href="https://discord.gg/strataczasu">
   <img
     src="assets/strata.gif"
-    alt="Strata Czasu - 30k"
+    alt="Strata Czasu"
     width="64"
   /></a>
 <a href="https://discord.gg/mordyrembola">
   <img
     src="assets/rembol.gif"
-    alt="Mordy Rembola - 145k"
+    alt="Mordy Rembola"
+    width="64"
+  /></a>
+<a href="https://discord.gg/JDn5DWgJmV">
+  <img
+    src="assets/matiskater.webp"
+    alt="MATISKATER"
     width="64"
   /></a>
 <a href="https://discord.gg/boxdel">
